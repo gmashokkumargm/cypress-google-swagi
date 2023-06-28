@@ -1,0 +1,18 @@
+{
+  "name": "teslachallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.15.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  }
+}
